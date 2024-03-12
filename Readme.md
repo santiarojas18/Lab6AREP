@@ -54,4 +54,4 @@ Para ejecutar la aplicación dentro de una instancia EC2 se deben seguir los sig
 
 ### Video funcionamiento
 
-En el siguiente [video](img/LAB6Video.mp4) se puede observar la aplicaicón en funcionamiento.
+En el siguiente [video](img/LAB6Video.mp4) se puede observar la aplicación en funcionamiento.
