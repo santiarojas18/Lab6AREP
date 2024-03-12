@@ -52,4 +52,6 @@ Para ejecutar la aplicación dentro de una instancia EC2 se deben seguir los sig
 * Para la conexión a la base de datos se hizo uso de una clase de conexión llamada MongoUtil y aparte la clase LogDAO para poder guardar los objetos.
 * Finalmente, para poner en contenedores se realizaron distintos Dockerfile, en los que se especificó el puerto de cada uno de los servidores.
 
+### Video funcionamiento
 
+En el siguiente [video](img/LAB6Video.mp4) se puede observar la aplicaicón en funcionamiento.
